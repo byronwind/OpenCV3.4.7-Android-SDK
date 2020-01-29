@@ -1,0 +1,2 @@
+include ':app',':opencv_android_sdk'
+rootProject.name='OpenCVTest'
